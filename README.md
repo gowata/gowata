@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor de Hardware e Firmware`**
 
-Me chamo Rodrigo H. Watanabe, sou formado em Engenharia Elétrica e atuo como professor de Eletrônica.".
+Me chamo Rodrigo H. Watanabe, sou formado em Engenharia Elétrica, Pós graduado em Engenharia Eletrônica, Mestre em Engenharia Elétrica pela Unicamp e atuo como professor de Eletrônica na Etec Armando Pannunzio. Faço parte do grupo de Robótica do CPS e desenvolvo atividades de Robótica Educacional".
 
 <p align="left">
     <a href="https://www.youtube.com/@gowata1?sub_confirmation=1">
