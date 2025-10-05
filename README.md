@@ -23,7 +23,7 @@ Me chamo Rodrigo H. Watanabe, sou formado em Engenharia Elétrica, Pós graduado
         <img 
             alt="Inscritos" 
             title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBcvB1bSCsU6zdIyX-xMqIg?color=%23E05D44&label=inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a> 
     <a href="https://www.youtube.com/@gowata1">
