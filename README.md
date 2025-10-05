@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Me chamo Rodrigo H. Watanabe, sou formado em Engenharia Elétrica e atuo como professor de Eletrônica.".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@gowata1?sub_confirmation=1">
         <img 
             alt="Inscritos" 
             title="Inscreva-se" 
